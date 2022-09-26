@@ -1,0 +1,28 @@
+.product-single {
+    max-width: 300px;
+    border: 2px solid #95A0A7;
+    border-radius: 10px;
+    position: relative;
+}
+
+.product-single img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product-info {
+    padding: 5px 15px 50px;
+}
+
+.product-single button {
+    position: absolute;
+    background: #FFE0B3;
+    border: none;
+    width: 100%;
+    padding: 15px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: none;
+    bottom: 0;
+    font-size: 15px;
+}

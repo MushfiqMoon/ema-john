@@ -1,0 +1,33 @@
+.banner-area {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.banner-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 100px;
+}
+
+.banner-text small {
+    color: #f90;
+    margin-bottom: 50px;
+}
+
+.banner-text h2 {
+    font-size: 60px;
+    line-height: 72px;
+    margin-bottom: 0;
+}
+
+.banner-text p {
+    font-weight: 300;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+.banner-area img {
+    max-width: 450px;
+}

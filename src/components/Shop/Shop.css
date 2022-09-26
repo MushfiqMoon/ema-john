@@ -1,0 +1,8 @@
+.product-area {
+    margin: 0 auto;
+}
+
+.shop-area {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,13 @@
+.nav-area {
+    display: flex;
+    padding: 20px 150px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1C2B35;
+}
+
+.nav-menu a {
+    padding-left: 15px;
+    color: #fff;
+    font-size: 17px;
+}
